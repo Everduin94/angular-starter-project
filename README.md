@@ -1,6 +1,8 @@
 ### TODO:
 - Cypress
   - Finish setting up cypress-firebase auth (refer to Yami)
+- Akita
+  - Investigate HTTP Entity Stores
   
 ### Stack
 - Akita (State Management)
