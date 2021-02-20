@@ -1,12 +1,12 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import {AppComponent} from './app.component';
+import { DemoComponent } from './demo.component';
 
 
 const routes: Routes = [
   {
     path: '',
-    component: AppComponent,
+    component: DemoComponent,
     // children: [
       // {
         // path: 'select',
