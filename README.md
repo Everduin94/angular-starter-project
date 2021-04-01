@@ -1,3 +1,7 @@
+### Getting Started
+- Optional: Login to Firebase via CLI > run `ng add @angular/fire` (Select a Firebase Project)
+- Run `npm install`
+
 ### TODO:
 - Cypress
   - Finish setting up cypress-firebase auth (refer to Yami)
