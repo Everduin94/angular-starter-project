@@ -1,5 +1,7 @@
 ### Getting Started
 - Optional: Login to Firebase via CLI > run `ng add @angular/fire` (Select a Firebase Project)
+  - Add `AngularFireModule.initializeApp(firebaseConfig)`
+  - Get `firebaseConfig` from Firebase Project settings (config SDK option after registering)
 - Run `npm install`
 
 ### TODO:
